@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background: linear-gradient(rgb(63, 37, 104),rgb(106, 123, 172), rgb(177, 166, 166));
+    background-size: cover;
+}
+
+img{
+   width: 1100px;
+   height: 800px;
+}
+
+h1{
+    color: aliceblue;
+    border-style: solid;
+    border-color: rgb(148, 155, 172);
+    border-width: 5px;
+}
